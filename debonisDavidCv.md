@@ -1,4 +1,4 @@
-<div align="center">**David J DeBonis**</div>
+<div align="center"><b>David J DeBonis</b></div>
 <div align="center">*Curriculum Vitae*</div>
 
 ## Education
