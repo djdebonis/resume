@@ -1,5 +1,5 @@
 <div align="center"><b>David J DeBonis</b></div>
-<div align="center">*Curriculum Vitae*</div>
+<div align="center"><i>Curriculum Vitae</i></div>
 
 ## Education
 
