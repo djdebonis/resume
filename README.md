@@ -6,8 +6,8 @@
 (2017-2018) Metropolitan State University of Denver, Denver CO
 
 (2018-Present) University of Colorado Denver, Denver CO
-* Expected Spring, 2021:	B.A. Computer Science
-  * Minor(s): Linguistics; Cognitive and Behavioral Neuroscience
+* Expected Fall, 2021:	B.A. Computer Science
+  * Minor(s): Linguistics
 
 ## Certification
 
@@ -48,11 +48,11 @@ Machine Learning;
 
 The International Phonetic Alphabet (IPA)
 
-Unix (Linux, Mac OS/X) OS; Bash, Vim
+Unix (Linux, Mac OS/X) OS; Bash
 
-Jupyter (Hub, Lab, Binder, & Notebook), Vim, Atom, CLion
+Jupyter (Hub, Lab, & Notebook), Vi/Vim, Atom, CLion
 
-Git, GitHub, Git Track Changes/Version-Control, Github Collaboration
+Git, GitHub: Track Changes/Version-Control, Collaboration, Actions (CI/CD)
 
 ## Natural Languages
 
@@ -69,6 +69,8 @@ Python
 C, C++
 
 Markdown
+
+SQL
 
 
 ## Publications
@@ -189,13 +191,9 @@ Denver, 10 April 2019, p. 5.
 (2018) “WC Orientation and Writing Effective Claims,” Writing Center Presentation, University of Colorado Denver.
 
 
-## Software Experience
+## Other Software Experience
 
 Unix OS
-
-Jupyter (Hub, Lab, Binder, & Notebook); CLion; Atom
-
-Hugo
 
 Canvas Instructure LMS
 
